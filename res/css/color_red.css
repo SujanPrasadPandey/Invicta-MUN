@@ -51,7 +51,8 @@
 */
 
 .bg-hover-base-color:hover {
-    background-color: #F2921D !important;
+    opacity: 3;
+    background-color: black !important;
 }
 
 
