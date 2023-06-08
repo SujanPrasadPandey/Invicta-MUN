@@ -13,10 +13,10 @@
 
   $(window).scroll(function(){
     if ($(document).scrollTop() > 80){
-      $('.navbar').addClass('shrink');
+      $('.navbar-transparent').addClass('shrink');
     }
     else{
-      $('.navbar').removeClass('shrink');
+      $('.navbar-transparent').removeClass('shrink');
     }
   });
 
